@@ -1,4 +1,4 @@
-
+//homework2.18----Han_Wenkang
 #include <iostream>
 
 using namespace std;
