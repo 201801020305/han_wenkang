@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553424148 source:c:\users\22371\desktop\3.12\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1553424588 c:\users\22371\desktop\3.12\include\account.h
+	<iostream>
+	<string>
+
+1553424865 source:c:\users\22371\desktop\hwk3.12\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1553426295 c:\users\22371\desktop\hwk3.12\include\account.h
+	<iostream>
+	<string>
+
+1553426660 source:c:\users\22371\desktop\hwk3.12\main.cpp
+	<iostream>
+	"Account.h"
+
