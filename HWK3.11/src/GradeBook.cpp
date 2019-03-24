@@ -4,9 +4,8 @@ using namespace std;
 
 GradeBook::GradeBook(std::string CSname,std::string TCname)
 :courseName(CSname),teacherName(TCname)
-
 {
-    //ctor
+
 }
 void GradeBook::setCourseName(std::string coursename)
     {
