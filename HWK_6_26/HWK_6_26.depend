@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554878355 source:c:\cpp\hwk_6_26\main.cpp
+	<iostream>
+	<iomanip>
+
