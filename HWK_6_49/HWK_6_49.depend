@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555846571 source:c:\users\22371\desktop\hwk_6_49\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
